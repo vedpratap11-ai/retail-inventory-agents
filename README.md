@@ -1,3 +1,4 @@
+Live app: https://retail-inventory-agents-aeverwct5lnryrdxdvey3j.streamlit.app/
 # Retail Inventory & Working Capital Agents (Group 10)
 Run: `pip install -r requirements.txt && streamlit run app.py`
 Optional LLM reasoning layer: set `ANTHROPIC_API_KEY` (model via `LLM_MODEL`). Without a key, agents use rule-based narratives.
